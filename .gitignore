@@ -1,0 +1,7 @@
+.vscode
+sample_outputs
+test_scripts
+*.tar.gz
+*.sh
+producer_consumer
+.DS_Store
