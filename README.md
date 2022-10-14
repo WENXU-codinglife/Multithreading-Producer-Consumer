@@ -1,6 +1,6 @@
 # Multithreaded Producer/Consumer
 
-This is a personal C++ project based on a school course assignment, implementing a program to solve the multi-producer/multi-consumer problem. `pthread`, `mutex`, `conditional variable` are employed.
+This is a personal C++ project implementing a program to solve the multi-producer/multi-consumer problem. `pthread`, `mutex`, `conditional variable` are employed.
 
 ## Producer-Consumer Problem
 
